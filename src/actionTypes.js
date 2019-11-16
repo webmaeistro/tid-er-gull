@@ -1,0 +1,3 @@
+export const SET_PARTICIPANTS = "SET_PARTICIPANTS";
+export const SET_SALARY = "SET_SALARY";
+export const SET_REALTIME = "SET_REALTIME";
